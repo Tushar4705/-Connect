@@ -1,0 +1,6 @@
+.row1 {
+  display: flex;
+  z-index: 1;
+  justify-content: space-evenly;
+  margin: 10px;
+}

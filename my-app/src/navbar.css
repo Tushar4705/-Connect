@@ -1,0 +1,20 @@
+.navbar {
+  display: inline;
+}
+
+.uploadButton {
+  background-color: #ffffff;
+  color: black;
+  padding: 12px 28px;
+  border-radius: 12px;
+  border: 2px solid #d2d4d2;
+  text-decoration: none;
+  transition-duration: 0.4s;
+}
+.uploadButton:hover {
+  background-color: #d2d4d2;
+  color: white;
+}
+.all {
+  background-color: green;
+}
